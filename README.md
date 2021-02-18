@@ -1,7 +1,5 @@
 # Blogging-WebApp
 
-<h2>Assignment Problem Statement:</h2>
-
 <h4>Part 1:</h4>
 <ol>
     <li>Create a web-app where a user can login.</li>
