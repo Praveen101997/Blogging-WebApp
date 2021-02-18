@@ -1,4 +1,4 @@
-# Blogging-WebApp
+# Blogging-WebApp [![Django CI](https://github.com/Praveen101997/Blogging-WebApp/actions/workflows/django.yml/badge.svg)](https://github.com/Praveen101997/Blogging-WebApp/actions/workflows/django.yml)
 
 <h4>Part 1:</h4>
 <ol>
